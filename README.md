@@ -8,7 +8,8 @@ Hi there👋 I am **Sieun Kim**, a student at Kookmin Univ.
 My major is inform security crypto mathematics:closed_lock_with_key::books:, and my double major is computer software:computer:.
 I am interested in **development** and **data analysis**.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=se0983)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 - 🔭 I’m currently working on ...
