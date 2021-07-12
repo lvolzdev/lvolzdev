@@ -3,7 +3,7 @@
 <!--
 **se0983/se0983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=300&section=header&text=hello%20world&fontSize=90
+![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=300&section=header&text=hello%20world&fontSize=90)
 
 Hi there👋 I am **Sieun Kim**, a student at Kookmin Univ.
 My major is inform security crypto mathematics:closed_lock_with_key::books:, and my double major is computer software:computer:.
