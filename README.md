@@ -9,7 +9,7 @@ My major is inform security crypto mathematics:closed_lock_with_key::books:, and
 I am interested in **development** and **data analysis**.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=se0983)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=se0983&&show_icons=true&theme=vue)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=se0983&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
