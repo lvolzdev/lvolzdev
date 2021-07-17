@@ -1,9 +1,9 @@
 # Sieun Kim
 
 👩‍🎓 Kookmin Univ.<br>
-&nbsp;Double major in <br>
-&nbsp;&nbsp;:closed_lock_with_key: Inform Security Crypto Mathematics <br>
-&nbsp;&nbsp;:computer: Computer Software <br>
+&nbsp;&nbsp;Double major in <br>
+&nbsp;&nbsp;&nbsp;&nbsp;:closed_lock_with_key: Inform Security Crypto Mathematics <br>
+&nbsp;&nbsp;&nbsp;&nbsp;:computer: Computer Software <br>
 <br>
 
 <!--
