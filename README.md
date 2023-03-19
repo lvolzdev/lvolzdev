@@ -6,7 +6,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;:computer: Computer Software <br>
 
 👩‍🎓 University of Bayreuth.<br>
-&nbsp;&nbsp;Exchage student 22/23 <br>
+&nbsp;&nbsp;Exchange student 22/23 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;:computer: Computer Science <br>
 
 
