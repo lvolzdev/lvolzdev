@@ -19,7 +19,9 @@
 <a href="mailto:se098300@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 -->
 
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=se0983&&show_icons=true)
+-->
 
 <!--
 **se0983/se0983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
