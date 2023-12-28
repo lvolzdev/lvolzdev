@@ -22,15 +22,28 @@
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvolzdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvolzdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br>
 
 
-## Stacks 🔨
+### Come to My Page 📩
+<a href="https://lvolz.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=tistory&logoColor=white&link=https://lvolz.tistory.com/"/></a>
+<a href="https://lvolzdev.github.io/"><img src="https://img.shields.io/badge/Github%20Page-222222?style=flat-square&logo=githubpages&logoColor=white&link=https://lvolzdev.github.io/"/></a>
+<a href="https://www.linkedin.com/in/sieun-kim-4866a91b9/"><img src="https://img.shields.io/badge/Linkedin%20Page-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sieun-kim-4866a91b9/"/></a>
+
+<!--
+<div align=center><h3>Come to MY PAGE 📩</h3></div>
+  <div align=center>	
+[![tistory](https://img.shields.io/badge/-tistory-a5f1c0)](https://lvolz.tistory.com/)
+[![Github page](https://img.shields.io/badge/-Github-a5f1c0)](https://lvolzdev.github.io/)
+</div>
+-->
+<!--
+<a href="mailto:se098300@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>-->
+
+
+### Stacks 🔨
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-
-## Contact me 📩
-<a href="mailto:se098300@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=DAFCB3&height=150&section=footer" />
