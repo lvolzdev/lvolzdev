@@ -1,12 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=AED18A&height=150&section=header&text=Hi%20I'm%20Sieun%20Kim%20😊&fontColor=FFFFFF&fontSize=40" />
 
 ## Who am I ?
-👩‍🎓 Kookmin Univ.<br>
+🇰🇷 Kookmin Univ.<br>
 &nbsp;&nbsp;Double major in <br>
 &nbsp;&nbsp;&nbsp;&nbsp;🔐 Inform Security Crypto Mathematics <br>
 &nbsp;&nbsp;&nbsp;&nbsp;💻 Computer Software <br>
 
-👩‍🎓 University of Bayreuth.<br>
+🇩🇪 University of Bayreuth.<br>
 &nbsp;&nbsp;Exchange student 22/23 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;💻 Computer Science <br>
 
