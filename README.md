@@ -2,12 +2,12 @@
 
 👩‍🎓 Kookmin Univ.<br>
 &nbsp;&nbsp;Double major in <br>
-&nbsp;&nbsp;&nbsp;&nbsp;:closed_lock_with_key: Inform Security Crypto Mathematics <br>
-&nbsp;&nbsp;&nbsp;&nbsp;:computer: Computer Software <br>
+&nbsp;&nbsp;&nbsp;&nbsp;🔐 Inform Security Crypto Mathematics <br>
+&nbsp;&nbsp;&nbsp;&nbsp;💻 Computer Software <br>
 
 👩‍🎓 University of Bayreuth.<br>
 &nbsp;&nbsp;Exchange student 22/23 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;:computer: Computer Science <br>
+&nbsp;&nbsp;&nbsp;&nbsp;💻 Computer Science <br>
 
 
 <!--
