@@ -1,13 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=AED18A&height=150&section=header&text=😊%20Hi%20there%20😊&fontColor=FFFFFF&fontSize=40" />
 
 ### About Me
-😊 I’m interested in Fintech, Cloud Computing and Backend development. <br>
+😊 I’m interested in `Fintech`, `Cloud Computing` and `Backend development`. <br>
 
 ### Education
 🇰🇷 Kookmin Univ. (Expected graduation date: AUG 2024)<br>
 &nbsp;&nbsp;Double major in <br>
 &nbsp;&nbsp;&nbsp;&nbsp;🔐 Inform Security Crypto Mathematics <br>
-&nbsp;&nbsp;&nbsp;&nbsp;💻 Computer Software <br>
+&nbsp;&nbsp;&nbsp;&nbsp;💻 Software Engineering <br>
 
 🇩🇪 University of Bayreuth.<br>
 &nbsp;&nbsp;Exchange student 22/23 <br>
@@ -20,6 +20,12 @@
 - 🖌️ 메트릭스튜디오 백엔드 개발 현장실습  (2021.06 ~ 2021.08)
 - 🦁 멋쟁이사자처럼 8기 (2020.03 ~ 2020.12)
 - 👾 교내 암호포렌식 연구동아리 CaS (2019.04 ~ 2020.12) <br>
+
+### Favorite
+- ⛵️ Travel
+    - 배낭여행, 오지여행, 고생하는 여행
+- 🚲 Bike Riding 
+- 🎧 Headset
 
 ### Come to My Page 📩
 <a href="https://lvolz.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=tistory&logoColor=white&link=https://lvolz.tistory.com/"/></a>
