@@ -5,7 +5,7 @@
 　 ( ･ω･ ||<br/>
 　 /　つΦ<br/>
 
-### Skills 🔥
+### Skills ☃️
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c&logoColor=A8B9CC)&nbsp;
@@ -21,12 +21,7 @@
 ![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion&logoColor=white)&nbsp;
 <br/>
 
-### Links 📩
+### Links 🌬️
 <a href="https://lvolz.tistory.com/"><img src="https://img.shields.io/badge/-Tech%20Blog-11B48A?style=flat&logo=tistory&logoColor=white"/></a>
 <a href="https://lvolzdev.github.io/"><img src="https://img.shields.io/badge/-Github%20Page-222222?style=flat&logo=githubpages&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/sieun-kim-4866a91b9/"><img src="https://img.shields.io/badge/--Linkedin%20Page-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-<br/>
-
-### Favorite
-- Travel ⛵️
-- Bike Riding 🚲
+<a href="https://www.linkedin.com/in/sieun-kim-4866a91b9/"><img src="https://img.shields.io/badge/-Linkedin%20Page-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
