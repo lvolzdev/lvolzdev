@@ -1,3 +1,4 @@
+<center>
 |￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|<br/>
 |&emsp;&emsp;&emsp;&emsp;&emsp;안녕하세요!&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;|<br/>
 |＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿|<br/>
@@ -25,3 +26,4 @@
 <a href="https://lvolz.tistory.com/"><img src="https://img.shields.io/badge/-Tech%20Blog-11B48A?style=flat&logo=tistory&logoColor=white"/></a>
 <a href="https://lvolzdev.github.io/"><img src="https://img.shields.io/badge/-Github%20Page-222222?style=flat&logo=githubpages&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/sieun-kim-4866a91b9/"><img src="https://img.shields.io/badge/-Linkedin%20Page-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+</center>  
