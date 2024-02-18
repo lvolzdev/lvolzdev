@@ -1,6 +1,6 @@
 <center>
 |￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|<br/>
-|&emsp;&emsp;&emsp;&emsp;&emsp;Hi there&emsp;!&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;|<br/>
+|&emsp;&emsp;&emsp;&emsp;&emsp;Hi there&emsp;!&emsp;&emsp;&emsp;&emsp;&emsp;|<br/>
 |＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿|<br/>
 　　 ᕱ ᕱ ||<br/>
 　 ( ･ω･ ||<br/>
