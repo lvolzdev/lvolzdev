@@ -8,7 +8,7 @@
 
 ### 🙌 &nbsp;Experience
 
-- Pro Digital Academy 3th, Shinhan Securities Co. (2023.12 - 2024.06) <br />
+- Pro Digital Academy 3rd, Shinhan Securities Co. (2023.12 - 2024.06) <br />
 - Exchange Student, Universität Bayreuth. (2022.09 - 2023.02) <br />
 - Software QA Test Intern, RaonSecure. (2022.01 - 2022.06) <br />
 - Backend Developer Intern, Metric Studio Inc. (2021.06 - 2021.08) <br />
