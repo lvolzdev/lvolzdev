@@ -30,8 +30,8 @@
 <a href="https://lvolzdev.github.io/about/"><img src="https://img.shields.io/badge/-Github%20Page-222222?style=flat&logo=githubpages&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/sieun-kim-4866a91b9/"><img src="https://img.shields.io/badge/-Linkedin%20Page-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 <br/>
-<br/>
 
+### 🔔 &nbsp;Algorithms
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=se0983)](https://solved.ac/se0983/)
 <br />
 
