@@ -24,7 +24,6 @@
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;\
-<br />
 
 ### 🌬️ &nbsp;Links
 <a href="https://lvolz.tistory.com/"><img src="https://img.shields.io/badge/-Tech%20Blog-11B48A?style=flat&logo=tistory&logoColor=white"/></a>
