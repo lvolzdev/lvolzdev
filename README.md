@@ -13,7 +13,7 @@
 - Software QA Test Intern, RaonSecure. (2022.01 - 2022.06) <br />
 - Backend Developer Intern, Metric Studio Inc. (2021.06 - 2021.08) <br />
 - FAS at DF&C Lab. (2020.07 - 2021.02) <br />
-- LikeLion 8th at KMU. (2020.03 - 2021.02) <br />
+- LikeLion 8th at ***. (2020.03 - 2021.02) <br />
 
 ### 🚀 &nbsp;Skills
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
