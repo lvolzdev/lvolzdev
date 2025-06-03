@@ -6,6 +6,10 @@
 　 ( ･ω･ ||<br/>
 　 /　つΦ<br/>
 
+### 🍄 &nbsp;Career
+
+- Financial Security Institute. (2025.01 - now) <br />
+
 ### 🙌 &nbsp;Experience
 
 - Financial Security Institute. (2025.01 - now) <br />
