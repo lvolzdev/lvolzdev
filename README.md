@@ -8,9 +8,10 @@
 
 ### 🙌 &nbsp;Experience
 
+- Financial Security Institute. (2025.01 - now) <br />
 - Pro Digital Academy 3rd, Shinhan Securities Co. (2023.12 - 2024.06) <br />
 - Exchange Student, Universität Bayreuth. (2022.09 - 2023.02) <br />
-- Software QA Test Intern, RaonSecure. (2022.01 - 2022.06) <br />
+- Software QA Intern, RaonSecure. (2022.01 - 2022.06) <br />
 - Backend Developer Intern, Metric Studio Inc. (2021.06 - 2021.08) <br />
 - FAS at DF&C Lab. (2020.07 - 2021.02) <br />
 - LikeLion 8th at ***. (2020.03 - 2021.02) <br />
