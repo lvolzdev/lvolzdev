@@ -6,13 +6,12 @@
 　 ( ･ω･ ||<br/>
 　 /　つΦ<br/>
 
-### 🍄 &nbsp;Career
+### 💪 &nbsp;Career
 
 - Financial Security Institute. (2025.01 - now) <br />
 
 ### 🙌 &nbsp;Experience
 
-- Financial Security Institute. (2025.01 - now) <br />
 - Pro Digital Academy 3rd, Shinhan Securities Co. (2023.12 - 2024.06) <br />
 - Exchange Student, Universität Bayreuth. (2022.09 - 2023.02) <br />
 - Software QA Intern, RaonSecure. (2022.01 - 2022.06) <br />
